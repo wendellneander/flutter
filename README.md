@@ -1,8 +1,3 @@
-# contador_de_pessoas
+# CONTADOR
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A simple Flutter application.
